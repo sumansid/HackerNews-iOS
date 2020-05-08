@@ -20,8 +20,7 @@ struct ContentView: View {
                         Text(post.title)
                     }
                 }
-                
-                
+            
             }
         .navigationBarTitle("Hacker News")
       }
@@ -36,6 +35,3 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-
-
-
